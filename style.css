@@ -40,7 +40,7 @@
     font-weight: 700;
     margin-right: 10px;
 }
-p{
+.text-p{
     font-size: 13px;
     margin: 0px 2px 0px 0px;
     padding: 0px 3px;
@@ -136,4 +136,21 @@ p{
     padding: 10px;
     margin: 0;
     text-overflow: hidden;
+}
+@media (max-650){
+    .carousel-res{
+        width: 100px;
+        height: 300px;
+        display: block;
+
+    }
+    footer,{
+        width: 200px;
+        height: 300px;
+        display: block;
+        font-size: .5rem;
+    }
+    .navbar-brand{
+        margin-right: 20px;
+    }
 }
