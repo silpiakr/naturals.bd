@@ -1,0 +1,139 @@
+.bg-body{
+    padding: 0;
+    margin: 0%;
+    background-color: rgb(197, 196, 196);
+    
+}
+.natural-bg{
+    background-color: #00A651;
+}
+.search-input{
+    width: 300px;
+    height: 50px;
+
+}
+.search-btn{
+    margin-left: 180px;
+    margin-top: 6px;
+    background-color: #00A651;
+    position: absolute;
+    border-radius: 5px;
+}
+.btn-text{
+    color: white;
+    background-color: #00A651;
+}
+.btn-text:hover{
+    color: #00A651;
+
+}
+
+.cart-top{
+    margin-top: -40px;
+}
+.slider-top{
+    margin-top: 85px;
+    height: 400px;
+}
+span{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-right: 10px;
+}
+p{
+    font-size: 13px;
+    margin: 0px 2px 0px 0px;
+    padding: 0px 3px;
+    text-align: center;
+}
+.div-class{
+    width: 100px;
+    height: 120px;
+    border-bottom: 2px solid #00A651;    
+}
+.div-class:hover{
+    border: 2px solid #00A651;
+    border-radius: 50% 50% 0% 0%;
+}
+.fa-eye-bg{
+    font-size: medium;
+}
+.fa-eye-bg:hover{
+    background-color: #00A651;
+}
+.card-border:hover{
+    border: 2px solid #00A651;
+}
+.heart-style{
+    margin-left: 200px;
+    margin-top: -20px;
+    font-size: 1rem;
+    color: grey;
+}
+.heart-style:hover{
+    color: #00A651;
+}
+.margin-top{
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+
+.carsole-dsign{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.clint-review{
+    color: #00A651;
+    font-size: 1.2rem;
+}
+.h3-margin{
+    margin-bottom: 100px;
+}
+.border-style{
+    border: lightgray;
+    border-radius: 15px;
+}
+.footer-bg{
+    margin-bottom: -50px;
+    padding: 0;
+    background-color: #0b3921;
+}
+.footer-a{
+    text-decoration: none;
+    color: rgb(187, 188, 188);
+    font-size: 2rem;
+    padding: 20px;
+    margin-top: 20px;
+}   
+.icon-border{
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 2px solid rgb(187, 188, 188);
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-aa{
+    text-decoration: none;
+    color: #00A651;
+    font-size: 5rem;
+    padding: 20px;
+    margin-top: 20px;
+}
+.footer-text{
+    color: rgb(187, 188, 188);
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+.nav-items{
+    color: rgb(187, 188, 188);
+    padding: 10px;
+    margin: 0;
+    text-overflow: hidden;
+}
